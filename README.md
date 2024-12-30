@@ -6,6 +6,7 @@ This repository contains various projects and exercises related to my studies in
 * BasicScripts: Basic programming scripts used for learning and practice.
 * FiniteStateMachine: A project that demonstrates the implementation of a finite state machine.
 * MazeGenerator: A program designed to generate mazes using randomized DFS.
+* MazeSolver: A program designed to find all paths in generated mazes.
 ### Jezyki i Metody Programowania 1 (Programming languages and methods 1)
 * Concordance: A program that generates a concordance (skorowidz) for a given text.
 ## Purpose
